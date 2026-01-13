@@ -1,0 +1,19 @@
+//オーバーロード(引数の数が異なる場合)
+public class Main5_11 {
+
+	public static int add(int x, int y) {
+		return x + y;
+	}
+	public static int add(int x, int y, int z) {
+		return x + y + z;
+	}
+	public static void main(String[] args) {
+		System.out.println("10+20=" + add(10, 20));
+		System.out.println("10+20+30=" + add(10,20, 30));
+	}
+
+
+
+}
+//作成日2026/01/13
+//最終更新日;2026/01/13(タイトル作成)

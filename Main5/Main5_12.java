@@ -1,0 +1,18 @@
+//引数に配列を受け取るメソッド
+public class Main5_12 {
+
+	//int型配列を受け取り、全ての要素を表示するメソッド
+	public static void printArray(int[] array) {
+		for (int element : array) {
+			System.out.println(element);
+		}
+	}
+	public static void main(String[] args) {
+		int[] array = {1, 2, 3};
+		//配列を渡す
+		printArray(array);
+	}
+
+}
+//作成日2026/01/13
+//最終更新日;2026/01/13(タイトル作成)
