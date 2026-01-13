@@ -1,4 +1,4 @@
-
+//書き換えてはいけない変数の値を上書きしてしまう
 public class Main1_4 {
 
 	public static void main(String[] args) {
@@ -16,3 +16,5 @@ public class Main1_4 {
 	}
 
 }
+//作成日;2026/01/08
+//最終更新日;2026/01/13(タイトル作成)

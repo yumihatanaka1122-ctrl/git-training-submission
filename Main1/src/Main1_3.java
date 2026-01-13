@@ -1,4 +1,4 @@
-
+//変数の再代入
 public class Main1_3 {
 
 	public static void main(String[] args) {
@@ -12,3 +12,5 @@ public class Main1_3 {
 	}
 
 }
+//作成日;2026/01/08
+//最終更新日;2026/01/13(タイトル作成)
