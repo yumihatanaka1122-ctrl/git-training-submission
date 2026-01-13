@@ -8,7 +8,6 @@ public class Main1_2 {
 		age = 30;
 		//箱の中身を表示
 		System.out.println(age);
-
 	}
 
 }

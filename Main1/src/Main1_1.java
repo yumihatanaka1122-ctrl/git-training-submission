@@ -6,6 +6,7 @@ public class Main1_1 {
 		System.out.println("Ver.0.1 by 湊");
 		System.out.println("＜ただいま鋭意学習・制作中＞");
 		System.out.println("プラグラムを終了します");
+		
 	}
 
 }

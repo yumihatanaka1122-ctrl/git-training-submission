@@ -12,6 +12,7 @@ public class Main1_5 {
 		PI = 10;
 		System.out.println("半径" + pie + "cmのパイの面積は、");
 		System.out.println(pie * pie * PI);
+		
 	}
 }
 //作成日;2026/01/08
