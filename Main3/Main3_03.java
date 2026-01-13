@@ -1,4 +1,4 @@
-
+//波カッコを省略した記述
 public class Main3_03 {
 
 	public static void main(String[] args) {
@@ -14,3 +14,4 @@ public class Main3_03 {
 
 }
 //作成日2026/01/13
+//最終更新日;2026/01/13(タイトル作成)

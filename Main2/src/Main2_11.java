@@ -1,4 +1,4 @@
-
+//命令実行の文(画面に表示する)
 public class Main2_11 {
 
 	public static void main(String[] args) {
@@ -11,3 +11,5 @@ public class Main2_11 {
 	}
 
 }
+//作成日;2026/01/08
+//最終更新日;2026/01/13(タイトル作成)

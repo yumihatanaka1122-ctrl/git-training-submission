@@ -1,4 +1,4 @@
-
+//基本的なfor文
 public class Main3_07 {
 
 	public static void main(String[] args) {
@@ -11,3 +11,4 @@ public class Main3_07 {
 
 }
 //作成日2026/01/13
+//最終更新日;2026/01/13(タイトル作成)

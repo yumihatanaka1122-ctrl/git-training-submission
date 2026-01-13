@@ -1,4 +1,4 @@
-
+//キーボードから入力を受け付ける場合
 public class Main2_16 {
 
 	public static void main(String[] args) {

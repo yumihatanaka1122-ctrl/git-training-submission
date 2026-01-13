@@ -1,4 +1,4 @@
-
+//オーバーロード(引数の数が異なる場合)
 public class Main5_11 {
 
 	public static int add(int x, int y) {
@@ -15,3 +15,5 @@ public class Main5_11 {
 
 
 }
+//作成日2026/01/13
+//最終更新日;2026/01/13(タイトル作成)

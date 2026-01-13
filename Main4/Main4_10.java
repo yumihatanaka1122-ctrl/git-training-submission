@@ -1,4 +1,4 @@
-
+//点数管理プログラム(for文の利用)
 public class Main4_10 {
 
 	public static void main(String[] args) {
@@ -16,3 +16,4 @@ public class Main4_10 {
 
 }
 //作成日2026/01/13
+//最終更新日;2026/01/13(タイトル作成)

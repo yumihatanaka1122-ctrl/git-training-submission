@@ -1,4 +1,4 @@
-
+//戻り値が配列の場合
 public class Main5_14 {
 
 	public static int [] makeArray(int size) {
@@ -17,3 +17,5 @@ public class Main5_14 {
 	}	
 
 }
+//作成日2026/01/13
+//最終更新日;2026/01/13(タイトル作成)

@@ -1,4 +1,4 @@
-
+//値より大きな型への変数に代入
 public class Main2_6 {
 
 	public static void main(String[] args) {
@@ -13,3 +13,5 @@ public class Main2_6 {
 	}
 
 }
+//作成日;2026/01/08
+//最終更新日;2026/01/13(タイトル作成)

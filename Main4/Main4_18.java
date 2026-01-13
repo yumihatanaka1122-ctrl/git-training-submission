@@ -1,4 +1,4 @@
-
+//2次元配列の利用
 public class Main4_18 {
 
 	public static void main(String[] args) {
@@ -14,3 +14,5 @@ public class Main4_18 {
 	}
 
 }
+//作成日2026/01/13
+//最終更新日;2026/01/13(タイトル作成)

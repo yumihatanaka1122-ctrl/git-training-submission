@@ -1,4 +1,4 @@
-
+//メソッドの呼び出し
 public class Main5_02 {
 
 	public static void main(String[] args) {
@@ -12,3 +12,5 @@ public class Main5_02 {
 	}
 
 }
+//作成日2026/01/13
+//最終更新日;2026/01/13(タイトル作成)

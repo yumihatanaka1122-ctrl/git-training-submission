@@ -1,4 +1,4 @@
-
+//戻り値の例
 public class Main5_07 {
 
 	public static int add(int x, int y) {
@@ -11,3 +11,5 @@ public class Main5_07 {
 	} 
 
 }
+//作成日2026/01/13
+//最終更新日;2026/01/13(タイトル作成)

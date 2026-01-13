@@ -1,4 +1,4 @@
-
+//トイレの空きを待つ繰り返し
 public class Main3_02 {
 
 	public static void main(String[] args) {
@@ -14,3 +14,4 @@ public class Main3_02 {
 
 }
 //作成日2026/01/13
+//最終更新日;2026/01/13(タイトル作成)

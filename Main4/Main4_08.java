@@ -1,4 +1,4 @@
-
+//配列を用いた点数管理プログラム(エラー)
 public class Main4_08 {
 
 	public static void main(String[] args) {
@@ -13,3 +13,4 @@ public class Main4_08 {
 
 }
 //作成日2026/01/13
+//最終更新日;2026/01/13(タイトル作成)

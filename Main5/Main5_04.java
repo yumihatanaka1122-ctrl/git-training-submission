@@ -1,4 +1,4 @@
-
+//引数を1つだけ渡す
 public class Main5_04 {
 
 	public static void main(String[] args) {
@@ -13,3 +13,5 @@ public class Main5_04 {
 	}
 
 }
+//作成日2026/01/13
+//最終更新日;2026/01/13(タイトル作成)

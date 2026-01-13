@@ -1,4 +1,4 @@
-
+//mainメソッド以外からメソッドを呼び出す
 public class Main5_03 {
 
 	public static void methodA() {
@@ -13,3 +13,5 @@ public class Main5_03 {
 	}
 
 }
+//作成日2026/01/13
+//最終更新日;2026/01/13(タイトル作成)

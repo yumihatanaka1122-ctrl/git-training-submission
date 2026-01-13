@@ -1,4 +1,4 @@
-
+//強制的な型変換
 public class Main2_8 {
 
 	public static void main(String[] args) {
@@ -9,3 +9,5 @@ public class Main2_8 {
 	}
 
 }
+//作成日;2026/01/08
+//最終更新日;2026/01/13(タイトル作成)

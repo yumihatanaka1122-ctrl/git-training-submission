@@ -1,4 +1,4 @@
-
+//caseラベルに複数の値を指定する
 public class Main3_05 {
 
 	public static void main(String[] args) {
@@ -23,3 +23,4 @@ public class Main3_05 {
 
 }
 //作成日2026/01/13
+//最終更新日;2026/01/13(タイトル作成)

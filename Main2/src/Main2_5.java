@@ -1,4 +1,4 @@
-
+//インクリメント演算子
 public class Main2_5 {
 
 	public static void main(String[] args) {
@@ -11,3 +11,5 @@ public class Main2_5 {
 	}
 
 }
+//作成日;2026/01/08
+//最終更新日;2026/01/13(タイトル作成)

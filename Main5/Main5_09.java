@@ -1,4 +1,4 @@
-
+//return文の後に処理は書けない(エラー)
 public class Main5_09 {
 
 	public static int sample() {
@@ -11,3 +11,5 @@ public class Main5_09 {
 	}
 
 }
+//作成日2026/01/13
+//最終更新日;2026/01/13(タイトル作成)

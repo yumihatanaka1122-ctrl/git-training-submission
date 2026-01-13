@@ -1,4 +1,4 @@
-
+//親配列と子配列の要素数を表示
 public class Main4_19 {
 
 	public static void main(String[] args) {
@@ -9,3 +9,5 @@ public class Main4_19 {
 	}
 
 }
+//作成日2026/01/13
+//最終更新日;2026/01/13(タイトル作成)

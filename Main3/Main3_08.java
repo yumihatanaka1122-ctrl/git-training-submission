@@ -1,4 +1,4 @@
-
+//for文のループ変数iの内容を表示する
 public class Main3_08 {
 
 	public static void main(String[] args) {
@@ -10,3 +10,4 @@ public class Main3_08 {
 
 }
 //作成日2026/01/13
+//最終更新日;2026/01/13(タイトル作成)

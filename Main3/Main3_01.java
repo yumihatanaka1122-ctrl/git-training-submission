@@ -1,4 +1,4 @@
-
+//天気による行動の変化をJavaで表す
 public class Main3_01 {
 
 	public static void main(String[] args) {
@@ -17,3 +17,4 @@ public class Main3_01 {
 
 }
 //作成日2026/01/13
+//最終更新日;2026/01/13(タイトル作成)

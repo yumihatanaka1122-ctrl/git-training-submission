@@ -1,4 +1,4 @@
-
+//String型をint型に変換する命令
 public class Main2_14 {
 
 	public static void main(String[] args) {
@@ -10,3 +10,5 @@ public class Main2_14 {
 	}
 
 }
+//作成日;2026/01/08
+//最終更新日;2026/01/13(タイトル作成)

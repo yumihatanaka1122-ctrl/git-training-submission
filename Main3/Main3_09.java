@@ -1,4 +1,4 @@
-
+//for文のループを二重にして九九の表を出力する
 public class Main3_09 {
 
 	public static void main(String[] args) {
@@ -17,3 +17,4 @@ public class Main3_09 {
 
 }
 //作成日2026/01/13
+//最終更新日;2026/01/13(タイトル作成)

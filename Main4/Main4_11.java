@@ -1,4 +1,4 @@
-
+//50点以上の科目の数を調べる
 public class Main4_11 {
 
 	public static void main(String[] args) {
@@ -15,3 +15,4 @@ public class Main4_11 {
 
 }
 //作成日2026/01/13
+//最終更新日;2026/01/13(タイトル作成)

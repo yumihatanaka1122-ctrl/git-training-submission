@@ -1,4 +1,4 @@
-
+//オーバーロード(引数の型が異なる場合)
 public class Main5_10 {
 	//1つ目のaddメソッド
 	public static int add(int x, int y) {
@@ -20,3 +20,5 @@ public class Main5_10 {
 	}
 
 }
+//作成日2026/01/13
+//最終更新日;2026/01/13(タイトル作成)
