@@ -8,7 +8,6 @@ public class Main1_3 {
 		//再度変数を代入
 		age = 31;
 		System.out.println("…いや、本当の年齢は" + age);
-
 	}
 
 }
