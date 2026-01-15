@@ -12,4 +12,4 @@ public class Main9_02 {
 		System.out.println(h1.hp);
 	}
 
-}
+} 
