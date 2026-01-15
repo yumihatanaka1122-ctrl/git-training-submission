@@ -6,4 +6,4 @@ public class Sword {
 	int damage;
 
 }
-//作成日;2026/01/15 
+//作成日;2026/01/15
