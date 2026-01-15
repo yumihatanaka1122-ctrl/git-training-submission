@@ -1,5 +1,5 @@
 //勇者と魔法使いを生み出す
-public class Main9_6 {
+public class Main9_06 {
 
 	public static void main(String[] args) {
 		Hero h1 = new Hero();

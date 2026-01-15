@@ -1,5 +1,5 @@
 //剣を装備した勇者を生み出す
-public class Main9_4 {
+public class Main9_04 {
 
 	public static void main(String[] args) {
 		//剣を生成
