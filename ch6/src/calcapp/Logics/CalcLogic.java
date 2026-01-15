@@ -1,4 +1,5 @@
-//CalcLogic.javaに計算処理を追加する
+//6-2 CalcLogic.javaに計算処理を追加する
+//6-6 CalcLogicをcalcapp.logicsに所属させる
 package calcapp.Logics;
 
 public class CalcLogic
@@ -14,4 +15,4 @@ public class CalcLogic
 
 }
 //作成日2026/01/13
-//最終更新日;2026/01/13(タイトル作成)
+//最終更新日;2026/01/15(タイトル作成)
