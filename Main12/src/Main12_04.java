@@ -1,0 +1,14 @@
+//Wizardにfireballを使わせる（エラー）
+public class Main12_04 {
+
+	public static void main(String[] args) {
+		Wizard w = new Wizard();
+		Character c = w;
+		Matango m = new Matango();
+		c.name = "アサカ";
+		c.attack(m);
+		c.fireball(m)
+	}
+
+}
+//作成日;2026/01/16
